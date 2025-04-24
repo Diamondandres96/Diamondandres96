@@ -17,17 +17,14 @@
 
 ---
 
-## 📂 Projects
 
 ### 🔐 Hack The Box – Retired Machines
 - **Lame**: Explored SMB vulnerabilities and privilege escalation techniques.
 - **Bashed**: Practiced web shell exploitation and post-exploitation strategies.
 
-### 🛠️ Python Automation Scripts
-- Developed scripts for network scanning and data parsing to streamline tasks.
 
-### 🌐 Portfolio Website
-- Created a personal website to showcase projects and skills using HTML, CSS, and JavaScript.
+
+
 
 ---
 
